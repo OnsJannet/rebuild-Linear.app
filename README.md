@@ -8,7 +8,7 @@ This project is a labor of love created during my free time. While the homepage 
 
 ## Preview
 
-Check out the progress made so far by visiting the [live preview here](https://linear-app-rebuild.vercel.app/).
+Check out the progress made so far by visiting the [live preview here](https://rebuild-linear-app-green.vercel.app/).
 
 ## Getting Started
 
